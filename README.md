@@ -68,4 +68,11 @@ superset/
 - [Superset GitHub 저장소](https://github.com/apache/superset)
 - [Superset Docker Hub](https://hub.docker.com/r/apache/superset)
 
+## 개인 블로그 
+- [Superset) 너 왜이렇게 버전업이 빠르니? (7개월 만에 2.1에서 4.0)](https://mightytedkim.tistory.com/227)
+- [Superset) 4.0.2 커스터마이징하기(1)_Flag,Theme,LandingPage](https://mightytedkim.tistory.com/229)
+- [Superset) 4.0.2 커스터마이징하기(2)_Logo,Role](https://mightytedkim.tistory.com/230)
+- [Superset) 4.0.x 시리즈 마무리로 정리하기 (자동 설치script + github 코드)](https://mightytedkim.tistory.com/232)
+
+
 
